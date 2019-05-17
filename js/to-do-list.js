@@ -96,3 +96,5 @@ window.ToDoList = {
 
 ToDoList.getItems();
 ToDoList.bindEvents();
+
+//to do tests
